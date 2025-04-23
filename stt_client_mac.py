@@ -11,10 +11,8 @@ import time
 import requests
 import logging
 from datetime import datetime
-from packaging import version
 import platform
 import sys
-import threading
 
 # Configure logging
 logging.basicConfig(
