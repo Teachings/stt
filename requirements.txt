@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+sounddevice
+numpy
+faster-whisper
+pyyaml
+pynput
+pyperclip
+requests
+packaging
